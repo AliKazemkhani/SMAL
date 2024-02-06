@@ -34,7 +34,7 @@ export const StyledStickyImage = styled('img')(({ theme }) => ({
   maxWidth: '90vw',
   transform: 'translateY(-100%)',
   [theme.breakpoints.up('lg')]: {
-    marginTop: '8rem',
+    marginTop: '18rem',
   },
 }))
 
