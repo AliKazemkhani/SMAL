@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Roman';
+    src: url('../fonts/Univers55Roman_normal_normal.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RomanBold';
+    src: url('../fonts/Univers65Bold_normal_normal.woff2') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RomanBoldCondensed';
+    src: url('../fonts/Univers67BoldCondensed_normal_condensed.woff2') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
