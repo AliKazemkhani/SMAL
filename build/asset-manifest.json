@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02463d6a.css",
+    "main.js": "/static/js/main.7c3470bc.js",
+    "static/media/capturecard.png": "/static/media/capturecard.1156d46f856f6fa1f99b.png",
+    "static/media/Univers55Roman_normal_normal.woff2": "/static/media/Univers55Roman_normal_normal.3a714fc4ec70b5a99746.woff2",
+    "static/media/Univers65Bold_normal_normal.woff2": "/static/media/Univers65Bold_normal_normal.e9f4afcdd9220cb10e53.woff2",
+    "static/media/Univers67BoldCondensed_normal_condensed.woff2": "/static/media/Univers67BoldCondensed_normal_condensed.de5c9cf6b3486cc045b6.woff2",
+    "static/media/hdr10.svg": "/static/media/hdr10.8e169188f9f84a0f8e8212cb25e6305a.svg",
+    "static/media/4k144.svg": "/static/media/4k144.c3f96b9d44ea0195013256845fffc630.svg",
+    "static/media/plugnplay.svg": "/static/media/plugnplay.c03d75e21f6b8a55ae9acdc2870392dc.svg",
+    "static/media/variablerefreshrate.svg": "/static/media/variablerefreshrate.344757b6be6872437e1643c9c129359c.svg",
+    "static/media/softwarecompatible.svg": "/static/media/softwarecompatible.5b65ba87232a79e9551b9a3075f55238.svg",
+    "static/media/hdmi21.svg": "/static/media/hdmi21.580172b7426964517fe3de5758c2bc62.svg",
+    "index.html": "/index.html",
+    "main.02463d6a.css.map": "/static/css/main.02463d6a.css.map",
+    "main.7c3470bc.js.map": "/static/js/main.7c3470bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02463d6a.css",
+    "static/js/main.7c3470bc.js"
+  ]
+}
