@@ -1,0 +1,31 @@
+{
+  "welcome": "Willkommen",
+  "thankYou": "Danke",
+  "scrollBannerTitle": "Elgato bringt superschnelle spielaufnahme für next-gen-spieler. mit hoher auflösung, hoher bildwiederholfrequenz durchschleifen und aufnehmen, ist es unsere leistungsstärkste usb-capture-karte aller zeiten. dennoch ist sie schnell eingerichtet und steht nicht im weg. sie werden nicht einmal merken, dass sie da ist.",
+  "features": {
+    "play": {
+      "title": "BIS ZU 4K144",
+      "subtitle": "Aufnahme & Durchschleifung auf nativen 4K144* Monitoren"
+    },
+    "hdmi": {
+      "title": "HDMI 2.1",
+      "subtitle": "Höhere Auflösungen, höhere Bildraten - wie 4K120 oder 1080p240"
+    },
+    "plugNplay": {
+      "title": "PLUG & PLAY",
+      "subtitle": "Windows, Mac, iPad*. HDMI 2.1 und USB-C Kabel inbegriffen"
+    },
+    "hdr": {
+      "title": "HDR10",
+      "subtitle": "Aufnahme & Durchschleifung"
+    },
+    "variableRefreshRate": {
+      "title": "VARIABLE BILDWIEDERHOLRATE",
+      "subtitle": "Kein Bildschirmreißen"
+    },
+    "softwareCompatible": {
+      "title": "SOFTWAREKOMPATIBEL",
+      "subtitle": "Konsolen, Handhelds, PCs und mehr"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "welcome": "Welcome",
+  "thankYou": "Thank You",
+  "scrollBannerTitle": "Elgato brings superspeed game capture to next-gen players. with high-resolution, high frame rate passthrough and capture, it's our most powerful usb capture card ever. still, it sets up in a snap and gets out of your way. you won't even know it's there.",
+  "features.play.title": "UP TO 4K144",
+  "features": {
+    "play": {
+      "title": "UP TO 4K144",
+      "subtitle": "Capture & passthrough on native 4K144* monitors"
+    },
+    "hdmi": {
+      "title": "HDMI 2.1",
+      "subtitle": "Higher resolutions, higher frame rates - like 4K120 or 1080p240"
+    },
+    "plugNplay": {
+      "title": "PLUG & PLAY",
+      "subtitle": "Windows, Mac, iPad*. HDMI 2.1 and USB-C cables included"
+    },
+    "hdr": {
+      "title": "HDR10",
+      "subtitle": "Capture & passthrough"
+    },
+    "variableRefreshRate": {
+      "title": "VARIABLE REFRESH RATE",
+      "subtitle": "Zero screen tearing"
+    },
+    "softwareCompatible": {
+      "title": "SOFTWARE COMPATIBLE",
+      "subtitle": "Consoles, Handhelds, PCs, and more"
+    }
+  }
+}
